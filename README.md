@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">I'm João Paulo,<br><br>Currently, an undergraduate student in Industrial Mechatronics at UniSenai Joinville, and recently graduated from the technical level course in Computer Science for the Internet at Faculdade Senac Joinville.</p>
+<p align="left">I'm João Paulo,<br><br>Currently, I am an undergraduate student in Industrial Mechatronics at UniSenai Joinville and graduated in the technical level course in Informatics for Internet at Senac Joinville College.</p>
 
 ###
 
